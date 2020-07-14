@@ -1,0 +1,15 @@
+C:\Users\Fail\source\repos\BRowser\BRowser\bin\Debug\BRowser.exe.config
+C:\Users\Fail\source\repos\BRowser\BRowser\bin\Debug\BRowser.exe
+C:\Users\Fail\source\repos\BRowser\BRowser\bin\Debug\BRowser.pdb
+C:\Users\Fail\source\repos\BRowser\BRowser\obj\Debug\BRowser.csprojAssemblyReference.cache
+C:\Users\Fail\source\repos\BRowser\BRowser\obj\Debug\BRowser.Form1.resources
+C:\Users\Fail\source\repos\BRowser\BRowser\obj\Debug\BRowser.Properties.Resources.resources
+C:\Users\Fail\source\repos\BRowser\BRowser\obj\Debug\BRowser.csproj.GenerateResource.cache
+C:\Users\Fail\source\repos\BRowser\BRowser\obj\Debug\BRowser.csproj.CoreCompileInputs.cache
+C:\Users\Fail\source\repos\BRowser\BRowser\obj\Debug\BRowser.exe
+C:\Users\Fail\source\repos\BRowser\BRowser\obj\Debug\BRowser.pdb
+C:\Users\Fail\source\repos\BRowser\BRowser\bin\Debug\EntityFramework.dll
+C:\Users\Fail\source\repos\BRowser\BRowser\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fail\source\repos\BRowser\BRowser\bin\Debug\EntityFramework.xml
+C:\Users\Fail\source\repos\BRowser\BRowser\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fail\source\repos\BRowser\BRowser\obj\Debug\BRowser.csproj.CopyComplete

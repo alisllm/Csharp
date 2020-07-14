@@ -1,0 +1,30 @@
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki\grafiki\bin\Debug\grafiki.exe.config
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki\grafiki\bin\Debug\grafiki.exe
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki\grafiki\bin\Debug\grafiki.pdb
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki\grafiki\obj\Debug\grafiki.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki\grafiki\obj\Debug\grafiki.Form1.resources
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki\grafiki\obj\Debug\grafiki.Properties.Resources.resources
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki\grafiki\obj\Debug\grafiki.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki\grafiki\obj\Debug\grafiki.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki\grafiki\obj\Debug\grafiki.exe
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki\grafiki\obj\Debug\grafiki.pdb
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\grafiki\bin\Debug\grafiki.exe.config
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\grafiki\bin\Debug\grafiki.exe
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\grafiki\bin\Debug\grafiki.pdb
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\grafiki\obj\Debug\grafiki.csprojAssemblyReference.cache
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\grafiki\obj\Debug\grafiki.Form1.resources
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\grafiki\obj\Debug\grafiki.Properties.Resources.resources
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\grafiki\obj\Debug\grafiki.csproj.GenerateResource.cache
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\grafiki\obj\Debug\grafiki.csproj.CoreCompileInputs.cache
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\grafiki\obj\Debug\grafiki.exe
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\grafiki\obj\Debug\grafiki.pdb
+C:\Users\Алина\Desktop\grafiki\grafiki\bin\Debug\grafiki.exe.config
+C:\Users\Алина\Desktop\grafiki\grafiki\bin\Debug\grafiki.exe
+C:\Users\Алина\Desktop\grafiki\grafiki\bin\Debug\grafiki.pdb
+C:\Users\Алина\Desktop\grafiki\grafiki\obj\Debug\grafiki.csprojAssemblyReference.cache
+C:\Users\Алина\Desktop\grafiki\grafiki\obj\Debug\grafiki.Form1.resources
+C:\Users\Алина\Desktop\grafiki\grafiki\obj\Debug\grafiki.Properties.Resources.resources
+C:\Users\Алина\Desktop\grafiki\grafiki\obj\Debug\grafiki.csproj.GenerateResource.cache
+C:\Users\Алина\Desktop\grafiki\grafiki\obj\Debug\grafiki.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Desktop\grafiki\grafiki\obj\Debug\grafiki.exe
+C:\Users\Алина\Desktop\grafiki\grafiki\obj\Debug\grafiki.pdb

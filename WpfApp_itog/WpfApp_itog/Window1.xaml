@@ -1,0 +1,37 @@
+﻿<Window x:Class="WpfApp_itog.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp_itog"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid RenderTransformOrigin="0.589,0.355">
+        <Button Content="Зарегистрироваться " HorizontalAlignment="Left" Margin="123,353,0,0" VerticalAlignment="Top" Width="121" Click="Button_Click_1"/>
+        <Label Content="Дата рождения" HorizontalAlignment="Left" Margin="117,197,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.504,0.518" Width="95"/>
+        <Label HorizontalAlignment="Left" Margin="169,187,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.504,0.518" Width="65"/>
+        <Label Content="Логин" HorizontalAlignment="Left" Margin="167,229,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.504,0.518" Width="65"/>
+        <Label Content="Повтор пароля" HorizontalAlignment="Left" Margin="123,285,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.518,0.5"/>
+        <Label Content="Пароль" HorizontalAlignment="Left" Margin="167,257,0,0" VerticalAlignment="Top" Height="25"/>
+        <Label Content="Фамилия " HorizontalAlignment="Left" Margin="152,96,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.504,0.518" Width="65"/>
+        <Label Content="Имя" HorizontalAlignment="Left" Margin="169,123,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.504,0.518" Width="65"/>
+        <Label Content="Пол" HorizontalAlignment="Left" Margin="169,174,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.518,0.5"/>
+        <Label Content="Отчество" HorizontalAlignment="Left" Margin="151,148,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="lastname" HorizontalAlignment="Left" Height="23" Margin="217,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="name" HorizontalAlignment="Left" Height="23" Margin="217,126,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="otec" HorizontalAlignment="Left" Height="23" Margin="217,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="pol" HorizontalAlignment="Left" Height="23" Margin="217,177,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="login2" HorizontalAlignment="Left" Height="23" Margin="217,229,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="pass2" HorizontalAlignment="Left" Height="23" Margin="217,259,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="password2" HorizontalAlignment="Left" Height="23" Margin="217,285,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <DatePicker x:Name="aage" HorizontalAlignment="Left" Margin="217,203,0,0" VerticalAlignment="Top" DisplayDateStart="2019-07-04"/>
+        <Label Content="   &#x9;&#x9;                     Регистрация" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.504,0.518" Width="793" Height="69" FontSize="24" Background="#FFBE6F6F"/>
+        <Label Content="Фото" HorizontalAlignment="Left" Margin="367,241,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.504,0.518" Width="65"/>
+        <TextBox x:Name="pathphoto" HorizontalAlignment="Left" Height="16" Margin="432,247,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="234" TextChanged="Pathphoto_TextChanged"/>
+        <Button Content="Отмена" HorizontalAlignment="Left" Margin="249,353,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="680,231,0,0" VerticalAlignment="Top" Width="75" Height="32" Click="Button_Click_2"/>
+        <Image x:Name="photo" HorizontalAlignment="Left" Height="130" Margin="466,92,0,0" VerticalAlignment="Top" Width="137"/>
+        <Label Content="Контактный номер" HorizontalAlignment="Left" Margin="342,286,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.518,0.5"/>
+        <TextBox x:Name="nomerr" HorizontalAlignment="Left" Height="23" Margin="452,289,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+    </Grid>
+</Window>

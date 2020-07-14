@@ -1,0 +1,40 @@
+C:\Users\Milord\Desktop\2.4.2019\Task\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Milord\Desktop\2.4.2019\Task\Task\Task\bin\Debug\Task.exe
+C:\Users\Milord\Desktop\2.4.2019\Task\Task\Task\bin\Debug\Task.pdb
+C:\Users\Milord\Desktop\2.4.2019\Task\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\Milord\Desktop\2.4.2019\Task\Task\Task\obj\Debug\Task.Form1.resources
+C:\Users\Milord\Desktop\2.4.2019\Task\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Milord\Desktop\2.4.2019\Task\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Milord\Desktop\2.4.2019\Task\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\Milord\Desktop\2.4.2019\Task\Task\Task\obj\Debug\Task.exe
+C:\Users\Milord\Desktop\2.4.2019\Task\Task\Task\obj\Debug\Task.pdb
+D:\semester 4\Основы программирования\2.4.2019\Task\Task\Task\bin\Debug\Task.exe.config
+D:\semester 4\Основы программирования\2.4.2019\Task\Task\Task\bin\Debug\Task.exe
+D:\semester 4\Основы программирования\2.4.2019\Task\Task\Task\bin\Debug\Task.pdb
+D:\semester 4\Основы программирования\2.4.2019\Task\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+D:\semester 4\Основы программирования\2.4.2019\Task\Task\Task\obj\Debug\Task.Form1.resources
+D:\semester 4\Основы программирования\2.4.2019\Task\Task\Task\obj\Debug\Task.Properties.Resources.resources
+D:\semester 4\Основы программирования\2.4.2019\Task\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+D:\semester 4\Основы программирования\2.4.2019\Task\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+D:\semester 4\Основы программирования\2.4.2019\Task\Task\Task\obj\Debug\Task.exe
+D:\semester 4\Основы программирования\2.4.2019\Task\Task\Task\obj\Debug\Task.pdb
+C:\Users\Milord\Desktop\projects\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+C:\Users\Milord\Desktop\projects\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.Form1.resources
+C:\Users\Milord\Desktop\projects\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Milord\Desktop\projects\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\Milord\Desktop\projects\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\Milord\Desktop\projects\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.exe
+C:\Users\Milord\Desktop\projects\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.pdb
+C:\Users\Milord\Desktop\projects\Mail_WordApi_Chart\Task\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Milord\Desktop\projects\Mail_WordApi_Chart\Task\Task\Task\bin\Debug\Task.exe
+C:\Users\Milord\Desktop\projects\Mail_WordApi_Chart\Task\Task\Task\bin\Debug\Task.pdb
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\bin\Debug\Task.exe.config
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\bin\Debug\Task.exe
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\bin\Debug\Task.pdb
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.Form1.resources
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.Properties.Resources.resources
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.exe
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.pdb

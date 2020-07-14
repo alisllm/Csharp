@@ -1,0 +1,49 @@
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\bin\Debug\Task.exe.config
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\bin\Debug\Task.exe
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\bin\Debug\Task.pdb
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.Form1.resources
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.Properties.Resources.resources
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\grafiki.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\grafiki.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.exe
+\\Mac\Home\Desktop\Mail_WordApi_Chart\Task\Task\Task\obj\Debug\Task.pdb
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki1\Task\bin\Debug\Task.exe.config
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki1\Task\bin\Debug\Task.exe
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki1\Task\bin\Debug\Task.pdb
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki1\Task\obj\Debug\grafiki.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki1\Task\obj\Debug\Task.Form1.resources
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki1\Task\obj\Debug\Task.Properties.Resources.resources
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki1\Task\obj\Debug\grafiki.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki1\Task\obj\Debug\grafiki.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki1\Task\obj\Debug\Task.exe
+\\Mac\Home\Desktop\МПТ\ОП_2 семестр\grafiki1\Task\obj\Debug\Task.pdb
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\Task\bin\Debug\Task.exe.config
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\Task\bin\Debug\Task.exe
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\Task\bin\Debug\Task.pdb
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\Task\obj\Debug\grafiki.csprojAssemblyReference.cache
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\Task\obj\Debug\Task.Form1.resources
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\Task\obj\Debug\grafiki.csproj.GenerateResource.cache
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\Task\obj\Debug\grafiki.csproj.CoreCompileInputs.cache
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\Task\obj\Debug\Task.exe
+C:\Users\burla\OneDrive\Рабочий стол\предметы\grafiki\Task\obj\Debug\Task.pdb
+C:\Users\Алина\Desktop\grafiki\Task\bin\Debug\Task.exe.config
+C:\Users\Алина\Desktop\grafiki\Task\bin\Debug\Task.exe
+C:\Users\Алина\Desktop\grafiki\Task\bin\Debug\Task.pdb
+C:\Users\Алина\Desktop\grafiki\Task\obj\Debug\grafiki.csprojAssemblyReference.cache
+C:\Users\Алина\Desktop\grafiki\Task\obj\Debug\Task.Form1.resources
+C:\Users\Алина\Desktop\grafiki\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\Алина\Desktop\grafiki\Task\obj\Debug\grafiki.csproj.GenerateResource.cache
+C:\Users\Алина\Desktop\grafiki\Task\obj\Debug\grafiki.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Desktop\grafiki\Task\obj\Debug\Task.exe
+C:\Users\Алина\Desktop\grafiki\Task\obj\Debug\Task.pdb
+C:\Users\79779\Desktop\Лекции\ОП\grafiki\Task\bin\Debug\Task.exe.config
+C:\Users\79779\Desktop\Лекции\ОП\grafiki\Task\bin\Debug\Task.exe
+C:\Users\79779\Desktop\Лекции\ОП\grafiki\Task\bin\Debug\Task.pdb
+C:\Users\79779\Desktop\Лекции\ОП\grafiki\Task\obj\Debug\grafiki.csprojAssemblyReference.cache
+C:\Users\79779\Desktop\Лекции\ОП\grafiki\Task\obj\Debug\Task.Form1.resources
+C:\Users\79779\Desktop\Лекции\ОП\grafiki\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\79779\Desktop\Лекции\ОП\grafiki\Task\obj\Debug\grafiki.csproj.GenerateResource.cache
+C:\Users\79779\Desktop\Лекции\ОП\grafiki\Task\obj\Debug\grafiki.csproj.CoreCompileInputs.cache
+C:\Users\79779\Desktop\Лекции\ОП\grafiki\Task\obj\Debug\Task.exe
+C:\Users\79779\Desktop\Лекции\ОП\grafiki\Task\obj\Debug\Task.pdb

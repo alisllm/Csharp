@@ -1,0 +1,32 @@
+﻿<Window x:Class="Cake.OformlenieZakaza"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cake"
+        mc:Ignorable="d"
+        Title="Оформление заказа" Height="705.025" Width="1244.205">
+    <Grid Margin="0,0,3.333,-19" Background="#FFFF9933">
+        <Label Content="Оформление заказа" HorizontalAlignment="Left" Margin="533,10,0,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontSize="18"/>
+        <DataGrid HorizontalAlignment="Left" Height="608" Margin="0,50,0,0" VerticalAlignment="Top" Width="652"/>
+        <TextBox x:Name="ArtikTextB" HorizontalAlignment="Left" Height="23" Margin="764,85,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="priceTextB" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="764,227,0,0"/>
+        <TextBox x:Name="kolvoTextB" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="764,169,0,0"/>
+        <TextBox x:Name="IzmerenieTextB" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="764,141,0,0"/>
+        <TextBox x:Name="NameTextB" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="764,113,0,0"/>
+        <TextBox x:Name="typeTextB" HorizontalAlignment="Left" Height="23" Margin="764,197,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.025,0.246"/>
+        <TextBox x:Name="vesOrPriceTextB" HorizontalAlignment="Left" Height="24" Margin="764,255,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="GostTextB" HorizontalAlignment="Left" Height="22" Margin="764,340,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="CharacterTextB" HorizontalAlignment="Left" Height="22" Margin="764,394,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <DatePicker x:Name="SrokGondosti" HorizontalAlignment="Left" Margin="764,422,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="fasovkaTextB" HorizontalAlignment="Left" Height="23" Margin="764,366,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="PostavshikTextB" HorizontalAlignment="Left" Height="23" Margin="764,284,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="85" Source="Logo_Monochrome.png">
+            <Image.OpacityMask>
+                <ImageBrush ImageSource="Logo_Monochrome.png" TileMode="Tile"/>
+            </Image.OpacityMask>
+        </Image>
+        <Label Content="Cake" HorizontalAlignment="Left" Margin="206,10,0,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" FontSize="20" Foreground="White"/>
+
+    </Grid>
+</Window>
